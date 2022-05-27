@@ -1,0 +1,427 @@
+@media (max-width: 1340px){
+	#btn_stay{
+		right: 50px;
+	}
+}
+@media (max-width: 1070px){
+	.navbar_part_wrap{
+		transform: scale(.8);
+	}
+}
+@media (max-width: 991px){
+	#navbar_part{
+		width: 100%;
+		height: auto;
+		box-shadow: 0 5px 10px 0 rgba(0, 0, 0, .2);
+
+	}
+	.typewriter{
+		font-size: 48px !important;
+	}
+	.left_part{
+		width: 0%;
+	}
+	.right_part{
+		width: 100%;
+	}
+	.my_logo img{
+		display: none;
+	}
+	.logo_tagline{
+		text-align: left;
+		position: absolute;
+		top: 0;
+	}
+	.my_toggler_button{
+		position: absolute;
+		right: 0;
+		top: 7px;
+		display: block;
+		z-index: 99;
+	}
+	.my_toggler_button span{
+		color: #fff !important;
+	}
+	.my_navbar{
+		position: relative;
+	}
+	.my_social_icons{
+		display: block;
+		position: absolute;
+		top: -5px;
+		right: 10%;
+	}
+	.nav_item_wrap li{
+		border-bottom: 1px solid rgba(255, 255, 255, .1);
+		text-align: left !important;
+	}
+	.nav_item_wrap li:last-child{
+		border-bottom: none;
+	}
+	.about_back p{
+		font-size: 98px;
+	}
+	.about_h3{
+		text-align: center;
+	}
+	.my_text {
+		text-align: center;
+		padding-left: 0 !important;
+	}
+	.my_button_1 {
+		display: block;
+		position: relative;
+		left: 50%;
+		top: 20%;
+		transform: translate(-50%,-50%);
+	}
+	.service_item{
+		margin: -80px 0 0 90px;
+	}
+	#contact{
+		margin-top: 100px;
+
+	}
+	.contact_left{
+		text-align: center;
+	}
+	.contact_social_icon{
+		position: relative;
+		margin-bottom: 50px;
+		left: 1%;
+	}
+	.send_us_a_msg{
+		text-align: center;
+		margin-left: 45px;
+
+	}
+	.my_form{
+		margin-left: 20px;
+	}
+	#f_name{
+		margin-bottom: 20px !important;
+	}
+	.testimonial_item{
+		padding: 20px;
+		text-align: center;
+		margin-top: 40px;
+	}
+	.line_height{
+		line-height: 2;
+	}
+	.about_h3{
+		padding: 0 !important;
+		margin-bottom: 20px;
+	}
+	.services_body{
+		margin: 0 40px !important;
+	}
+	.my_policy{
+		display: none;
+	}
+	.copy_right{
+		transform: translateX(40px);
+	}
+
+}
+@media (max-width: 767px){
+	.typewriter{
+		font-size: 36px !important;
+	}
+	.wc_text{
+		font-size: 24px !important;
+	}
+	.cover_location{
+		font-size: 18px !important;
+	}
+	.about_back p{
+		font-size: 68px;
+	}
+	.about_front p{
+		font-size: 28px;
+	}
+	.about_h3{
+		font-size: 20px;
+	}
+	
+	.copy_right{
+		text-align: center;
+		
+	}
+	.testimonial_dot{
+		position: relative;
+		bottom: 0;
+	}
+	#notice{
+		font-size: 12px;
+		height: 80px;
+		text-align: center;
+	}
+	.service_text{
+		font-size: 12px;
+	}
+	#services{
+		transform: scale(1.2);
+		margin: 100px 0;
+	}
+	.copy_right{
+		transform: translateX(-20px);
+	}
+	
+}
+@media (max-width: 575px){
+	.my_form{
+		margin-left: 50px;
+	}
+	.btn_stay{
+
+	}
+	.my_form{
+		margin-left: 25px !important;
+	}
+	#services{
+		transform: scale(1);
+	}
+}
+@media (max-width:534px){
+	.progressbar_button{
+		font-size: 14px;
+		padding: 5px 15px;
+	}
+}
+@media (max-width: 444px){
+	.cover_location{
+		font-size: 18px !important;
+	}
+	.cover_location{
+		font-size: 14px !important;
+	}
+	.logo_tagline{
+		font-size: 16px !important;
+	}
+	.my_toggler_button{
+		top: 2px;
+	}
+	.my_social_icons{
+		top: -10px;
+		right: 15%;
+	}
+	.my_social_icons a{
+		padding: 0 5px;
+	}
+	.about_back p{
+		font-size: 56px;
+	}
+	.about_front p{
+		font-size: 24px;
+	}
+	.about_h3{
+		font-size: 16px;
+	}
+	.my_text{
+		font-size: 12px;
+	}
+	.copy_right{
+		transform: translateX(-20px);
+		font-size: 14px;
+	}
+}
+@media (max-width: 420px){
+	.wc_text,.cover_location{
+		font-size: 16px;
+	}
+	.typewriter{
+		font-size: 24px !important;
+	}
+	.typewriter-text{
+		font-size: 24px;
+	}
+	.testimonial_item{
+		padding: 20px;
+		text-align: center;
+		margin-top: 40px;
+	}
+	.testimonial_dot{
+		margin-top: 150%;
+	}
+	.testimonial_text{
+		font-size: 12px;
+	}
+}
+@media (max-width: 384px){
+	.about_back p{
+		font-size: 48px;
+	}
+	.about_front p{
+		font-size: 18px;
+	}
+	.about_h3{
+		font-size: 15px;
+	}
+	.service_title{
+		font-size: 16px;
+		text-align: center;
+	}
+	.service_text{
+		font-size: 12px;
+		text-align: center;
+	}
+	.icon_box{
+		margin: 0 auto;
+		padding: 0;
+	}
+	.testimonial_dot{
+		margin: 0;
+		position: relative;
+	}
+	.testimonial_loaction{
+		font-size: 10px;
+	}
+	.testimonial_item{
+		width: 120%;
+		position: relative;
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%, -50%);
+		margin-top: 80%;
+	}
+	.service_item_wrapper{
+		position: relative;
+		width: 100%;
+		min-height: 250px;
+		display: block;
+		margin: 0 !important;
+	}
+	.icon_box{
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		right: 50%;
+		margin: 0 auto !important;
+		transform: translate(-50%,-50%);
+	}
+	.service_item{
+		position: absolute;
+		margin: 0 !important;
+		top: 60px;
+	}
+	.about {
+		margin-bottom: 50px;
+	}
+	.my_counter{
+		padding: 0 !important;
+		margin-top: 50px !important;
+	}
+	.contact_left {
+		padding: 0 !important;
+	}
+	.contact_p{
+		font-size: 14px;
+	}
+	.contact_social_icon a i{
+		font-size: 36px;
+		margin-top: 20px;
+	}
+	.contact_right {
+		padding: 0 !important;
+	}
+	.send_us_a_msg{
+		padding: 0 !important;
+	}
+	.my_form {
+		margin: 0 !important;
+		margin: 0 20px !important;
+	}
+	.contact_head{
+		margin: 0 !important;
+		padding-bottom: 50px !important;
+	}
+}
+@media (max-width: 361px){
+	.testimonial_item{
+		width: 120%;
+		position: relative;
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%, -50%);
+		margin-top: 90%;
+	}
+	#notice{
+		height: 90px;
+	}
+	.progressbar_button{
+		font-size: 11px;
+	}
+	.copy_right{
+		transform: translateX(-20px);
+		font-size: 12px;
+	}
+}
+@media (max-width: 320px){
+	.wc_text,.cover_location{
+		font-size: 14px;
+	}
+	.typewriter{
+		font-size: 20px !important;
+	}
+	.typewriter-text{
+		font-size: 20px;
+	}
+	.about_back p{
+		font-size: 36px;
+	}
+	.about_front p{
+		font-size: 16px;
+	}
+	.about_h3{
+		font-size: 15px;
+	}
+	.my_text{
+		font-size: 11px;
+	}
+	.progressbar_button{
+		font-size: 9px;
+		padding: 5px 5px;
+	}
+	.testimonial_item{
+		width: 120%;
+		position: relative;
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%, -50%);
+		margin-top: 110%;
+	}
+	.contact_social_icon{
+		display: block !important;
+	}
+	#notice{
+		font-size: 10px;
+	}
+	.my_button_1 {
+		padding: 5px 10px !important;
+		font-size: 12px;
+	}
+}
+@media (max-width: 280px){
+	.my_social_icons{
+		display: none;
+	}
+	.testimonial_item{
+		width: 120%;
+		position: relative;
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%, -50%);
+		margin-top: 140%;
+	}
+	#notice{
+		height: 110px;
+	}
+	.contact_button{
+		padding: 5px 10px !important;
+		font-size: 14px;
+	}
+	.my_text{
+		margin: 0 !important;
+	}
+}
